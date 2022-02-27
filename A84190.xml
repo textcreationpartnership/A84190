@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An exact and true relation of a most cruell and horrid murther committed by one of the cavaliers, on a woman in Leicester, billetted in her house: who was shot into the back, being within five weeks of the time of her delivery. Read in the house of Commons, and ordered to be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 4 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84190</idno>
+            <idno type="STC">Wing E3612</idno>
+            <idno type="STC">Thomason E117_20</idno>
+            <idno type="STC">ESTC R17046</idno>
+            <idno type="EEBO-CITATION">99860139</idno>
+            <idno type="PROQUEST">99860139</idno>
+            <idno type="VID">156078</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156078)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E117[20])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An exact and true relation of a most cruell and horrid murther committed by one of the cavaliers, on a woman in Leicester, billetted in her house: who was shot into the back, being within five weeks of the time of her delivery. Read in the house of Commons, and ordered to be forthwith printed and published: H: Elsynge, Cler. Parl. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for E. Husbands and I. Franck, and are to be sold at their shops, in the middle Temple, and next door to the Kings-head in Fleetstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Sept. 17. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed at end by attending coroners: Francis Coltman, Thomas Todd.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Royalists --  England --  History --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Atrocities --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-10</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156078:1" rendition="simple:additions"/>
+            <p>An exact and true RELATION OF A moſt cruell and horrid Murther committed by one of the CAVALIERS, ON A Woman in <hi>LEICESTER,</hi> Billetted in her Houſe: Who was ſhot into the back, being within five Weeks of the time of her delivery.</p>
+            <p>
+               <floatingText xml:lang="eng" type="order_to_print">
+                  <body>
+                     <p>REad in the houſe of Commons, and Ordered to be forth<g ref="char:EOLhyphen"/>with Printed and publiſhed:</p>
+                     <closer>
+                        <signed>H: Elſynge, Cler. Parl. D. Com.</signed>
+                     </closer>
+                  </body>
+               </floatingText>
+            </p>
+            <p>
+               <hi>London,</hi> Printed for <hi>E. Husbands</hi> and <hi>I. Franck,</hi> and are to be ſold at their ſhops, in the middle Temple, and text door to the Kings-head in Fleetſtreet. <hi>Sept.</hi> 17. 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:156078:2"/>
+            <pb n="3" facs="tcp:156078:2"/>
+            <head>An Exact and true Relation of a moſt cruell and horrid Murther, com<g ref="char:EOLhyphen"/>mitted by one of the Cavaliers, on a wo<g ref="char:EOLhyphen"/>man in Leiceſter, &amp;c.</head>
+            <head type="sub">Sept: 13. 1642.</head>
+            <p>
+               <hi>
+                  <seg rend="decorInit">F</seg>Rancis Coltman</hi> of the Pariſh of St. <hi>Martins</hi> in the Town of <hi>Leice<g ref="char:EOLhyphen"/>ſter</hi> Maulſter, being one of the Coroners Inqueſt, for the inquiry upon the death of goodwife <hi>Woodlane,</hi> wife of <hi>Henry VVoodlane</hi> of the ſaid Town of <hi>Leiceſter</hi> Chandler, taken before <hi>Thomas Blunt,</hi> and <hi>William Spichley,</hi> Coroners of the ſaid town,
+<pb n="4" facs="tcp:156078:3"/>who being examined, doth volun<g ref="char:EOLhyphen"/>tarily proteſt, as he ſhall anſwer before Almightie god, that what he ſhall deliver upon this examina<g ref="char:EOLhyphen"/>tion in this buſines is the truth, and ſaith, firſt, that he being ſummoned to ſerve upon this Inqueſt at the <hi>Guild-Hall</hi> of the ſaid Town of <hi>Le<g ref="char:EOLhyphen"/>ceſter,</hi> and having received the charge given by the Coroners with the reſt of the Iury, was thereupon with the reſt of the Jury required to go and view the body of the ſaid party diſeaſed which he did accor<g ref="char:EOLhyphen"/>dingly, and did find her to be ſhot under the back into the belly, being very great with child, and within a Month or five weeks of the time of her delivery (as the women there preſent did verily believe)
+<pb n="5" facs="tcp:156078:3"/>And he further ſaith, that it was given in evidence to the ſaid Jury, that this cruell fact was committed by one <hi>Chumley</hi> a Cavalier Trooper in the Kings ſarvice, who had for<g ref="char:EOLhyphen"/>merly faln out with her husband, beaten him, and threatned to be re<g ref="char:EOLhyphen"/>venged upon his wife, being billi<g ref="char:EOLhyphen"/>ted in the ſaid <hi>Woodlands</hi> houſe.</p>
+            <p>
+               <hi>Thomas Todd</hi> of the ſaid Towne of <hi>Leiceſter</hi> Taylor, being likewiſe examined upon the ſame buſineſſe, and being one of the ſame Jury, up<g ref="char:EOLhyphen"/>on the like Proteſtation doth af<g ref="char:EOLhyphen"/>firme, that what the ſaid <hi>Francis Coltman</hi> hath delivered upon his examination (being now read unto him) is the truth, and in witneſſe of the truth hereof, theſe parties examined have Subſcribed their
+<pb n="6" facs="tcp:156078:4"/>names, the day and Yeere firſt a<g ref="char:EOLhyphen"/>bove written.</p>
+            <closer>
+               <signed>Francis Coltman: Thomas Todd.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="notice">
+            <pb n="7" facs="tcp:156078:4"/>
+            <p>MEmorandum, theſe Examinations were taken by me <hi>Robert Cham<g ref="char:EOLhyphen"/>bers,</hi> Secretary to the Army, under the Command of the Right Honoura<g ref="char:EOLhyphen"/>ble <hi>Robert</hi> Earl of <hi>Eſſex</hi> his Excel<g ref="char:EOLhyphen"/>lency,</p>
+            <closer>
+               <date>the ſaid <hi>13<hi rend="sup">th</hi>
+                  </hi> day of September, <hi>1642.</hi>
+               </date>
+               <signed>And in the preſence of <list>
+                     <item>
+                        <hi>Jo: Meyrick.</hi>
+                     </item>
+                     <item>
+                        <hi>William Strode.</hi>
+                     </item>
+                     <item>
+                        <hi>Ph: Stapleton.</hi>
+                     </item>
+                     <item>
+                        <hi>William Purefoy.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </back>
+   </text>
+</TEI>
